@@ -64,4 +64,8 @@ git push -u origin main
 git remote add origin https://github.com/wasay105/wasay854.git
 git branch -M main
 git push -u origin main
+200 words is only 3–4 paragraphs. Sometimes less. As for proportion of the page, it depends on whether it’s single- or double-spaced. Double-spaced, it would take up maybe 2/3 of the page. Single-space—less than half. And you have to be clearer on “standard report style.” There are quite a few.
 
+Here’s a draft of a magazine article. I’ve marked the approximate areas for 200, 400, 600, and 800 words.
+
+If you’re using Word (or any other word processor), there will be a “word count” function. It’ll count the entire essay. If you want to determine the word count for only a portion, highlight that portion and then select “word count.”
