@@ -1,0 +1,67 @@
+                                                                   *GIT REPOSITRY*
+ 
+   
+                        GIT INIT                 Initialized empty Git repository in C:/Users/Khalid/Desktop/logo/.git/
+ 
+                        GIT STATUS                    C:\Users\Khalid\Desktop\logo> git status
+
+                        GIT ADD .                     C:\Users\Khalid\Desktop\logo>git add .
+
+                        GIT STATUS                     C:\Users\Khalid\Desktop\logo>git status
+
+                                                    Changes to be committed:
+                                             (use "git rm --cached <file>..." to unstage)
+                                                      new file:   index.html
+                                                      new file:   style.css
+
+
+                         GET RESET                      C:\Users\Khalid\Desktop\logo>get reset
+                           
+                          GET ADD .                    C:\Users\Khalid\Desktop\logo>  get add .
+                                  'get' is not recognized as an internal or external command,
+                                     operable program or batch file.
+
+                          GIT STATUS                 C:\Users\Khalid\Desktop\logo>git status
+                                                      On branch master
+                                                      No commits yet
+ 
+                                                Changes to be committed:
+                                         (use "git rm --cached <file>..." to unstage)
+                                               new file:   index.html
+                                               new file:   style.css
+
+                    GIT COMMIT -M"    "                    C:\Users\Khalid\Desktop\logo>git commit -m " initial commit"
+                                             [master (root-commit) c51c1fc]  initial commit
+                                              2 files changed, 0 insertions(+), 0 deletions(-)
+                                                 create mode 100644 index.html
+                                                create mode 100644 style.css
+                                               C:\Users\Khalid\Desktop\logo>\
+                                              '\' is not recognized as an internal or external command,
+                                                      operable program or batch file.\
+
+ 
+                          GIT PULL                         C:\Users\Khalid\Desktop\logo>git pull origin master
+                                                      fatal: 'origin' does not appear to be a git repository
+                                                 fatal: Could not read from remote repository.
+
+                                                                  Please make sure you have the correct access rights
+                                                                         and the repository exists.
+
+                GIT REMOT                            C:\Users\Khalid\Desktop\logo>git remote add origin https://github.com/wasay105/wasay854.git
+
+                  GIT PUSH                                        C:\Users\Khalid\Desktop\logo>git push origin master
+                                                    remote: Invalid username or password.
+                                             fatal: Authentication failed for 'https://github.com/wasay105/wasay854.git/'
+
+                                               C:\Users\Khalid\Desktop\logo>
+    GIT REPOSITRY                                              echo "# wasay854" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/wasay105/wasay854.git
+git push -u origin main
+git remote add origin https://github.com/wasay105/wasay854.git
+git branch -M main
+git push -u origin main
+
